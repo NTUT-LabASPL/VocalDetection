@@ -1,0 +1,12 @@
+data
+__pycache__
+.vscode
+logs
+*.h5
+*.wav
+*.mp3
+*.log
+*.ogg
+*.png
+*.csv
+*.json
